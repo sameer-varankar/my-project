@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sameer-varankar/my-project/static/css/main.546b48bd.css",
+    "main.js": "/sameer-varankar/my-project/static/js/main.dd119190.js",
+    "static/js/787.182c5a26.chunk.js": "/sameer-varankar/my-project/static/js/787.182c5a26.chunk.js",
+    "static/media/logo.svg": "/sameer-varankar/my-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sameer-varankar/my-project/index.html",
+    "main.546b48bd.css.map": "/sameer-varankar/my-project/static/css/main.546b48bd.css.map",
+    "main.dd119190.js.map": "/sameer-varankar/my-project/static/js/main.dd119190.js.map",
+    "787.182c5a26.chunk.js.map": "/sameer-varankar/my-project/static/js/787.182c5a26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.546b48bd.css",
+    "static/js/main.dd119190.js"
+  ]
+}
