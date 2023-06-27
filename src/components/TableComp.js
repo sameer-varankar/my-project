@@ -23,11 +23,6 @@ const Example = () => {
   const [validationErrors, setValidationErrors] = useState({});
   const [branch, type, status, setAge] = React.useState('');
 
-  const handleSubmit = () => {
-    onSubmit(values);
-    onClose();
-  };
-
   const handleChange = (event) => {
     setAge(event.target.value);
   };
@@ -213,7 +208,7 @@ const Example = () => {
         </Select>
       </FormControl>
 
-      <Button onClick={handleSubmit} variant="outlined">Outlined</Button>
+      <Button variant="outlined">Outlined</Button>
     </div>
     
     <MaterialReactTable
